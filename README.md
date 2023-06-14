@@ -3,9 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://kunah.fr">
-  <img  src="./resources/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="./resources/proc.svg"
+       alt="processor" /></a>
 </div>
 
 ## 🙋‍♂️ About Me
