@@ -122,3 +122,7 @@
   <br/>
   <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=IMTR0J4NV2&count_private=true&theme=github_dark'/>
 </div>
+
+<br/>
+<br/>
+<img  src="./resources/grid-snake.svg" alt="snake" />
