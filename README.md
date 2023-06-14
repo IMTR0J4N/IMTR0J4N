@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img  src="./resources/proc.svg"
+  <img  src="./resources/wave.svg"
        alt="processor" /></a>
 </div>
 
