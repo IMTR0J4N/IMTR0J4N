@@ -118,9 +118,15 @@
 ## 📊 [ Github Stats ]
 <br/>
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=IMTR0J4NV2&layout=compact&langs_count=8&theme=github_dark&hide=roff,objective-c'/>
+  <img src="https://komarev.com/ghpvc/?username=IMTR0J4NV2e&style=for-the-badge"/>
+    <br/>
+    <br/>
+    <br/>  
+    <br/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IMTR0J4NV2&count_private=true&theme=github_dark"/>
   <br/>
-  <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=IMTR0J4NV2&count_private=true&theme=github_dark'/>
+  <br/>
+  <img width="50%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=IMTR0J4NV2&layout=compact&langs_count=8&theme=github_dark&hide=roff,objective-c'/>
 </div>
 
 <br/>
