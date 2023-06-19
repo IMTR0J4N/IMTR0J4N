@@ -118,7 +118,7 @@
 ## 📊 [ Github Stats ]
 <br/>
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img src="https://komarev.com/ghpvc/?username=IMTR0J4NV2e&style=for-the-badge"/>
+  <img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4NV2e&style=for-the-badge"/>
     <br/>
     <br/>
     <br/>  
