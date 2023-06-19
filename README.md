@@ -126,7 +126,7 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IMTR0J4NV2&count_private=true&theme=github_dark"/>
   <br/>
   <br/>
-  <img width="50%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=IMTR0J4NV2&layout=compact&langs_count=8&theme=github_dark&hide=roff,objective-c'/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokay03J&theme=github_dark"/>
 </div>
 
 <br/>
