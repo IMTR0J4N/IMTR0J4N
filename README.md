@@ -13,6 +13,9 @@
 <p align='center'>📚 Currently studying Front-End and Back-End development at <a href="https://edenschool.fr">EdenShool Lyon</a></p>
 <p align='center'>🎗️ My goal is to complete my studies at <a href="https://42lyon.fr/">42 Lyon</a>.</p>
 
+ ```bash
+  npm i utils-ed
+  ```
 ## 🧠 [ Skills ]
 
 ### ⌨️ • Languages
