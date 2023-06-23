@@ -14,7 +14,7 @@
 <p align='center'>🎗️ My goal is to complete my studies at <a href="https://42lyon.fr/">42 Lyon</a>.</p>
 
  ```bash
-  npm i utils-ed
+  npm i -g scrap-it-cli
   ```
 ## 🧠 [ Skills ]
 
