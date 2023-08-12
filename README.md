@@ -44,15 +44,11 @@
   &emsp;
   <a href="https://adonisjs.com/"><img alt="AdonisJS" src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white"/></a>
   &emsp;
-  <a href="https://docs.adonisjs.com/guides/views/introduction"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/></a>
-  &emsp;
   <a href="https://webpack.js.org/"><img alt="WebPack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/></a>
   &emsp;
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
   &emsp;
   <a href="https://expressjs.com/fr/"><img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></a>
-  &emsp;
-  <a href="https://www.fastify.io/"><img alt="Fastify" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"/></a>
   &emsp;
   <a href="https://socket.io/"><img alt="Socket.IO" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/></a>
   &emsp;
@@ -74,21 +70,13 @@
   &emsp;
   <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   &emsp;
-  <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/></a>
-  &emsp;
   <a href="https://www.mongodb.com/docs/atlas/"><img alt="MongoDB" src="https://img.shields.io/badge/Mongo DB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  &emsp;
-  <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/></a>
-  &emsp;
-  <a href="https://supabase.com/"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
   &emsp;
   <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
   <a href="https://glitch.com/"><img alt="Glitch" src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white"/></a>
   &emsp;
   <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
-  &emsp;
-  <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   &emsp;
 </div>
 
