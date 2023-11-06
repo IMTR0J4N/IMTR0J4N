@@ -21,6 +21,7 @@
 ### ⌨️ • Languages
 <br/>
 <div align="center"> 
+  <a href="https://www.php.net/manual/fr/intro-whatis.php" target="_blank"><img alt="PHP HyperText Preprocessor" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
   &emsp;
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML-e86328?style=for-the-badge&logo=html5&logoColor=white"/></a>
   &emsp;
