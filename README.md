@@ -146,5 +146,5 @@
 <br/>
 <br/>
 <div align="center">
-  <img  src="./resources/grid-snake.svg" alt="snake" />
+  <img  src="resources/grid-snake.svg" alt="snake" />
 </div>
