@@ -27,7 +27,7 @@
   
 ### ⌨️ • Languages
 
-[![Languages](https://skillicons.dev/icons?i=php,html,css,js,ts,lua)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=php,html,css,js,ts,lua)](https://github.com/IMTR0J4N)
 
 <!--<br/>
 <div align="center"> 
@@ -47,7 +47,7 @@
 
 ### 🧰 • Frameworks | Libs | Preprocessors
 
-[![Languages](https://skillicons.dev/icons?i=sass,react,adonis,webpack,bootstrap,express,gulp,tailwind)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=sass,react,adonis,webpack,bootstrap,express,gulp,tailwind)](https://github.com/IMTR0J4N)
 
 <!--<br/>
 <div align="center"> 
@@ -74,7 +74,7 @@
 
 ### 🌐 • Databases | Cloud Hosting
 
-[![Languages](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,githubactions,heroku)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,githubactions,heroku)](https://github.com/IMTR0J4N)
 
 <!-- <br/>
 <div align="center">
@@ -99,7 +99,7 @@
 
  ### 🖥️ • Software | Tools | Runtime
 
-[![Languages](https://skillicons.dev/icons?i=linux,nodejs,git,vite,vscode,vim,idea,stackoverflow)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=linux,nodejs,git,vite,vscode,vim,idea,stackoverflow)](https://github.com/IMTR0J4N)
  
 <!-- <br/>
 <div align="center">
