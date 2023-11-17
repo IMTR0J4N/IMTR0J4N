@@ -16,10 +16,20 @@
  ```bash
   npm i -g scrap-it-cli
   ```
+
+
 ## 🧠 [ Skills ]
 
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="resources/landscape.gif" align="right" width="40%">
+    <img src="resources/astronomy.gif" width="40%" align="right" />
+  </picture>
+  
 ### ⌨️ • Languages
-<br/>
+
+[![Languages](https://skillicons.dev/icons?i=php,html,css,js,ts,lua)](https://skillicons.dev)
+
+<!--<br/>
 <div align="center"> 
   <a href="https://www.php.net/manual/fr/intro-whatis.php" target="_blank"><img alt="PHP HyperText Preprocessor" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
   &emsp;
@@ -33,10 +43,13 @@
   &emsp;
   <a href="https://www.lua.org/docs.html" target="_blank"><img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/></a>
   &emsp;
-</div>
+</div>-->
 
 ### 🧰 • Frameworks | Libs | Preprocessors
-<br/>
+
+[![Languages](https://skillicons.dev/icons?i=sass,react,adonis,webpack,bootstrap,express,gulp,tailwind)](https://skillicons.dev)
+
+<!--<br/>
 <div align="center"> 
   &emsp;
   <a href="https://sass-lang.com/" target="_blank"><img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/></a>
@@ -57,10 +70,13 @@
   &emsp;
   <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
   &emsp;
-</div>
+</div>-->
 
 ### 🌐 • Databases | Cloud Hosting
-<br/>
+
+[![Languages](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,githubactions,heroku)](https://skillicons.dev)
+
+<!-- <br/>
 <div align="center">
   &emsp;
   <a href="https://www.mysql.com/fr/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -79,10 +95,13 @@
   &emsp;
   <a href="https://www.heroku.com/" target="_blank"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
   &emsp;
-</div>
+</div> -->
 
  ### 🖥️ • Software | Tools | Runtime
- <br/>
+
+[![Languages](https://skillicons.dev/icons?i=linux,nodejs,git,vite,vscode,vim,idea,stackoverflow)](https://skillicons.dev)
+ 
+<!-- <br/>
 <div align="center">
   &emsp;
   <a href="https://www.debian.org/index.fr.html" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
@@ -105,12 +124,15 @@
   &emsp;
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   &emsp;
-</div>
+</div> -->
+
+<br/>
+<br/>
 
 ## 📊 [ Github Stats ]
 <br/>
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&style=for-the-badge"/>
+  <img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&flat"/>
     <br/>
     <br/>
     <br/>  
