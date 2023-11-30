@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"><img width="50" src="./resources/waving.gif"><br/>Hello, i'm Joshua</h1>
+<h1 align="center"><img width="50" src="./resources/waving.gif"><br/>Hello</h1>
 </div>
 
 <div align="center">
@@ -8,6 +8,9 @@
 </div>
 
 ## 🙋‍♂️ [ About Me ]
+<div align="center">
+  <img src= "https://github.com/IMTR0J4N/SVG/blob/master/github_stats.svg"/>  
+</div>
 <br/>
 <p align='center'>📍 Based in Lyon (France)</p>
 <p align='center'>📚 Currently studying Front-End and Back-End development at <a href="https://edenschool.fr">EdenShool Lyon</a></p>
@@ -132,14 +135,12 @@
 ## 📊 [ Github Stats ]
 <br/>
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&flat"/>
+<!--   <img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&flat"/>
     <br/>
     <br/>
     <br/>  
     <br/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IMTR0J4N&count_private=true&theme=github_dark"/>
-  <br/>
-  <br/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IMTR0J4N&count_private=true&theme=github_dark"/> -->
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMTR0J4N&theme=github_dark"/>
 </div>
 
