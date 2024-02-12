@@ -129,19 +129,13 @@
 <br/>
 
 ## 📊 [ Github Stats ]
-<br/>
-<div align="center" style="display: flex; justify-content: space-around;">
-<!--   <img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&flat"/>
-    <br/>
-    <br/>
-    <br/>  
-    <br/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IMTR0J4N&count_private=true&theme=github_dark"/> -->
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMTR0J4N&theme=github_dark"/>
-</div>
 
-<br/>
-<br/>
-<div align="center">
-  <img  src="resources/grid-snake.svg" alt="snake" />
+<div align="center" style="display: flex; justify-content: space-around;">
+    <br/>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMTR0J4N&theme=transparent">
+
+  <div class="flex">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMTR0J4N&theme=transparent"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMTR0J4N&theme=transparent"/>
+  </div>
 </div>
