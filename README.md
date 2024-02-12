@@ -135,7 +135,7 @@
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMTR0J4N&theme=transparent">
 
   <div class="flex">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMTR0J4N&theme=transparent"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMTR0J4N&theme=transparent"/>
+    <img style="width:49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMTR0J4N&theme=transparent"/>
+    <img style="width:49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMTR0J4N&theme=transparent"/>
   </div>
 </div>
