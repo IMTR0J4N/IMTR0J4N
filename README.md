@@ -14,7 +14,7 @@
 <br/>
 <p align='center'>📍 Based in Lyon (France)</p>
 <p align='center'>📚 Currently studying Front-End and Back-End development at <a href="https://edenschool.fr">EdenShool Lyon</a></p>
-<p align='center'>🎗️ My goal is to finish my studies at <a href="https://42lyon.fr/">42 Lyon</a> and become a DevOps engineer.</p>
+<p align='center'>🎗️ My goal is to finish my studies at <a href="https://42lyon.fr/">42 Lyon</a> and become a DevOPS / SysOPS engineer.</p>
 
 
 ## 🧠 [ Skills ]
