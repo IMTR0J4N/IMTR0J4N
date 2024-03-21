@@ -73,7 +73,7 @@
 
 ### 🌐 • Databases | Cloud Hosting
 
-[![Languages](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,githubactions,heroku)](https://github.com/IMTR0J4N)
+[![Languages](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,githubactions,heroku)](https://github.com/IMTR0J4N)
 
 <!-- <br/>
 <div align="center">
