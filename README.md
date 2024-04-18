@@ -46,7 +46,7 @@
 
 ### 🧰 • Frameworks | Libs | Preprocessors
 
-[![Languages](https://skillicons.dev/icons?i=sass,react,adonis,webpack,bootstrap,express,gulp,tailwind)](https://github.com/IMTR0J4N)
+[![Languages](https://skillicons.dev/icons?i=sass,react,vue,adonis,webpack,bootstrap,express,gulp,tailwind)](https://github.com/IMTR0J4N)
 
 <!--<br/>
 <div align="center"> 
