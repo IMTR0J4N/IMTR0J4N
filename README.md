@@ -13,8 +13,8 @@
 </div>
 <br/>
 <p align='center'>📍 Based in Lyon (France)</p>
-<p align='center'>📚 Currently studying Front-End and Back-End development at <a href="https://edenschool.fr">EdenShool Lyon</a></p>
-<p align='center'>🎗️ My goal is to finish my studies at <a href="https://42lyon.fr/">42 Lyon</a> and become a DevOPS / SysOPS engineer.</p>
+<p align='center'>📚 Validating my Full-Stack Web Developer - Level 5 Qualification in a work-study contract at <a href="https://edenschool.fr">EdenShool Lyon</a></p>
+<p align='center'>🎗️ Working for <a href="https://jvais.net/">JVais.net</a> Web Agency.</p>
 
 
 ## 🧠 [ Skills ]
